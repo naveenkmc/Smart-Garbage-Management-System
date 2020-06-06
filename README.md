@@ -1,0 +1,1 @@
+# Smart-Garbage-Management-System
